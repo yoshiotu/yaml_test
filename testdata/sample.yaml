@@ -1,0 +1,11 @@
+password: my_big_secret
+team_tags:
+  team_type: baseball
+
+ignore_colors:
+  - blue
+  - green
+  - red
+
+# Deploy in elastic mode
+elastic_mode: false
